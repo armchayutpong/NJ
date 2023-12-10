@@ -1,9 +1,9 @@
 module.exports = {
-  HOST: "localhost",
-  PORT: "1434",
-  USER: "zkoder",
-  PASSWORD: "123456",
-  DB: "bezkoder_db",
+  HOST: "thanvasucloud.com",
+  PORT: "1433",
+  USER: "uinet",
+  PASSWORD: "p@$$w0rd",
+  DB: "CFS_TBC_Restaurant",
   dialect: "mssql",
   pool: {
     max: 5,
